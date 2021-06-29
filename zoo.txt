@@ -1,1 +1,4 @@
+parallel coordinates
+node-link diagrams
+adjacency diagrams
 circle packing
