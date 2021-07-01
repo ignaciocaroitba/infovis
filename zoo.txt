@@ -2,3 +2,11 @@ parallel coordinates
 node-link diagrams
 adjacency diagrams
 circle packing
+enclosure diagrams
+circle-packing layouts
+force-directed layout
+arc diagrams
+adjacency matrix
+horizon graphs
+dorling cartogram
+reingold-tilford algorithm
